@@ -7,6 +7,7 @@ Mesmo com todas essas definições complicadas que eu falei acima, o Vue é o fr
 
 A documentação do próprio Vue é bem rica em detalhes e aconselho a leitura: 
 [Vue org](https://vuejs.org/)
+
 Aqui é possível ler vários artigos e tutoriais feitos por brasileiros:
 [Vue.js Brasil](http://vuejs-brasil.com.br/)
 
