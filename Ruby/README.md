@@ -1,8 +1,9 @@
 # Ruby
 ![](https://d1q6f0aelx0por.cloudfront.net/product-logos/c21ccc13-b1e4-4523-b0af-af41f8a3bd7c-ruby.png)
-##### Uma linguagem dinâmica, open source com foco na simplicidade e na produtividade. Tem uma sintaxe elegante de leitura natural e fácil escrita.
 
-```
+Uma linguagem dinâmica, open source com foco na simplicidade e na produtividade. Tem uma sintaxe elegante de leitura natural e fácil escrita.
+
+``` ruby
 # A classe Saudação
 class Saudacao
   def initialize(name)
@@ -21,17 +22,16 @@ ola = Saudacao.new("mundo")
 ola.sauda
 ```
 
-#### Os Ideais do Criador do Ruby
-##### O Ruby é uma linguagem com um cuidadoso equilíbrio. O seu criador, [Yukihiro “Matz” Matsumoto](https://matz.rubyist.net/), uniu partes das suas linguagens favoritas (Perl, Smalltalk, Eiffel, Ada e Lisp) para formar uma nova linguagem que equilibra a programação funcional com a programação imperativa.
+## Os Ideais do Criador do Ruby
+O Ruby é uma linguagem com um cuidadoso equilíbrio. O seu criador, [Yukihiro “Matz” Matsumoto](https://matz.rubyist.net/), uniu partes das suas linguagens favoritas (Perl, Smalltalk, Eiffel, Ada e Lisp) para formar uma nova linguagem que equilibra a programação funcional com a programação imperativa.
 
-##### Ele disse com frequência que está “tentando tornar o Ruby natural, não simples”, de uma forma que reflita a vida.
+Ele disse com frequência que está “tentando tornar o Ruby natural, não simples”, de uma forma que reflita a vida.
 
-##### Elaborando sobre isto, acrescenta:
-_O Ruby é simples na aparência, mas muito complexo no interior, tal como o corpo humano._
+Elaborando sobre isto, acrescenta:
+>_O Ruby é simples na aparência, mas muito complexo no interior, tal como o corpo humano._
 
 
-
-#### A seguir alguns links para estudos:
+## Links para estudos:
 
 - [Aprenda a programar](https://www.jmonteiro.com/aprendaaprogramar/)
 - [O (comovente) guia de Ruby do Why](http://why.carlosbrando.com/)
