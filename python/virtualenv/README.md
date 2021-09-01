@@ -3,18 +3,18 @@
 Quando trabalhamos com muitos projetos diferentes é desejável que as instalações da nossa máquina não intefiram nas intalações  dos nossos projetos. Ai que entra a virtualenv.
 
 
-# Para criar sua venv(https://tutorial.djangogirls.org/pt/django_installation/)
+### Para criar sua venv(https://tutorial.djangogirls.org/pt/django_installation/)
 
 python3 -m venv venv
 
-# Para executar
+### Para executar
 
 venv\Scripts\activate
 
-# Para ver as libs instaladas nessa venv
+### Para ver as libs instaladas nessa venv
 pip freeze
 
-# Para gerar um arquivo .txt com as dependencias do seu ambiente
+### Para gerar um arquivo .txt com as dependencias do seu ambiente
 
 pip freeze > requirements.txt
 

@@ -1,4 +1,4 @@
-# DevGuide -  PyLadies Fortaleza
+# Dev Guide - PyLadies Fortaleza
 
 Use este repositório para dicas e desafios de desenvolvimento em qualquer linguagem (:
 
@@ -9,6 +9,4 @@ Use este repositório para dicas e desafios de desenvolvimento em qualquer lingu
 * Deixe a galera interagir <3
 
 ## Quero ajudar em algum projeto da Hacktoberfest 2019
-Você pode conferir os projetos que precisam de ajuda no link:
-
-https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues
+Você pode conferir os projetos que precisam de ajuda no link: [Hacktoberfest 2019](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
