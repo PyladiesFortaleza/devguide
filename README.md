@@ -11,10 +11,10 @@
 
 <h2>Materiais</h2>
 
-<a href="./dart/README.md">Dart</a>
+<a href="./dart">Dart</a>
 
-<a href="./html/README.md">HTML</a>
+<a href="./html">HTML</a>
 
 <a href="./python">Python</a>
 
-<a href="./ruby/README.md">Ruby</a>
+<a href="./ruby">Ruby</a>
