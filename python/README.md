@@ -8,3 +8,10 @@ Produzido pelo canal Curso em Vídeo e disponível na plataforma Youtube. [PT-BR
 
 * [Python para iniciantes](https://www.youtube.com/watch?v=jFCNu1-Xdsw&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&index=2&t=0s)
 Produzido pela Microsoft e disponibilizado gratuitamente na plataforma Youtube. [ENG]
+
+
+<h2>Materiais</h2>
+
+<a href="./django/README.md">Django</a>
+<a href="./flask/README.md">Flask</a>
+<a href="./virtualenv/README.md">Virtualenv</a>
