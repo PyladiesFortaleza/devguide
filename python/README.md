@@ -13,5 +13,7 @@ Produzido pela Microsoft e disponibilizado gratuitamente na plataforma Youtube. 
 <h2>Materiais</h2>
 
 <a href="./django/README.md">Django</a>
+
 <a href="./flask/README.md">Flask</a>
+
 <a href="./virtualenv/README.md">Virtualenv</a>
