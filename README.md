@@ -15,6 +15,6 @@
 
 <a href="./html/README.md">HTML</a>
 
-<a href="./python/README.md">Python</a>
+<a href="./python">Python</a>
 
 <a href="./ruby/README.md">Ruby</a>
